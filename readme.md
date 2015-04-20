@@ -1,4 +1,7 @@
 <pre>
+Phil Hofer
+4/20/15
+heapHomework.js
 go into src/sorting/ and run heapHomework.js using node.
 </pre>
 
