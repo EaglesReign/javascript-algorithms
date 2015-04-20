@@ -1,3 +1,8 @@
+<pre>
+go into src/sorting/ and run heapHomework.js using node.
+</pre>
+
+
 ![](https://travis-ci.org/mgechev/javascript-algorithms.svg?branch=master)
 
 ## About
