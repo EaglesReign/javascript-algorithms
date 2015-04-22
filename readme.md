@@ -2,7 +2,12 @@
 Phil Hofer
 4/20/15
 heapHomework.js
+This is the homework for 4/20
 go into src/sorting/ and run heapHomework.js using node.
+
+heapwork.js
+This is the homework for 4/22
+go into src/sorting and run heapwork.js using node.
 </pre>
 
 
